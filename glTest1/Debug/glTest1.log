@@ -1,0 +1,60 @@
+﻿  Source.cpp
+c:\users\admin\documents\visual studio 2015\projects\gltest1\gltest\gltest1\source.cpp(70): warning C4244: '-=': conversion from 'float' to 'LONG', possible loss of data
+c:\users\admin\documents\visual studio 2015\projects\gltest1\gltest\gltest1\source.cpp(71): warning C4244: '-=': conversion from 'float' to 'LONG', possible loss of data
+  dimensions_plus.cpp
+c:\users\admin\documents\visual studio 2015\projects\gltest1\gltest\gltest1\dimensions_plus.cpp(5): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\admin\documents\visual studio 2015\projects\gltest1\gltest\gltest1\dimensions_plus.cpp(26): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\admin\documents\visual studio 2015\projects\gltest1\gltest\gltest1\dimensions_plus.cpp(27): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\admin\documents\visual studio 2015\projects\gltest1\gltest\gltest1\dimensions_plus.cpp(142): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+c:\users\admin\documents\visual studio 2015\projects\gltest1\gltest\gltest1\dimensions_plus.cpp(290): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+c:\users\admin\documents\visual studio 2015\projects\gltest1\gltest\gltest1\dimensions_plus.cpp(290): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\admin\documents\visual studio 2015\projects\gltest1\gltest\gltest1\dimensions_plus.cpp(291): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+c:\users\admin\documents\visual studio 2015\projects\gltest1\gltest\gltest1\dimensions_plus.cpp(291): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\admin\documents\visual studio 2015\projects\gltest1\gltest\gltest1\dimensions_plus.cpp(319): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+c:\users\admin\documents\visual studio 2015\projects\gltest1\gltest\gltest1\dimensions_plus.cpp(319): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\admin\documents\visual studio 2015\projects\gltest1\gltest\gltest1\dimensions_plus.cpp(320): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+c:\users\admin\documents\visual studio 2015\projects\gltest1\gltest\gltest1\dimensions_plus.cpp(320): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\admin\documents\visual studio 2015\projects\gltest1\gltest\gltest1\dimensions_plus.cpp(350): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+c:\users\admin\documents\visual studio 2015\projects\gltest1\gltest\gltest1\dimensions_plus.cpp(350): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\admin\documents\visual studio 2015\projects\gltest1\gltest\gltest1\dimensions_plus.cpp(351): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+c:\users\admin\documents\visual studio 2015\projects\gltest1\gltest\gltest1\dimensions_plus.cpp(351): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\admin\documents\visual studio 2015\projects\gltest1\gltest\gltest1\dimensions_plus.cpp(387): warning C4244: '*=': conversion from 'double' to 'int', possible loss of data
+c:\users\admin\documents\visual studio 2015\projects\gltest1\gltest\gltest1\dimensions_plus.cpp(388): warning C4244: '*=': conversion from 'double' to 'int', possible loss of data
+c:\users\admin\documents\visual studio 2015\projects\gltest1\gltest\gltest1\dimensions_plus.cpp(389): warning C4305: '*=': truncation from 'double' to 'float'
+c:\users\admin\documents\visual studio 2015\projects\gltest1\gltest\gltest1\dimensions_plus.cpp(390): warning C4305: '*=': truncation from 'double' to 'float'
+c:\users\admin\documents\visual studio 2015\projects\gltest1\gltest\gltest1\dimensions_plus.cpp(425): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+c:\users\admin\documents\visual studio 2015\projects\gltest1\gltest\gltest1\dimensions_plus.cpp(426): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+c:\users\admin\documents\visual studio 2015\projects\gltest1\gltest\gltest1\dimensions_plus.cpp(427): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+c:\users\admin\documents\visual studio 2015\projects\gltest1\gltest\gltest1\dimensions_plus.cpp(428): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+c:\users\admin\documents\visual studio 2015\projects\gltest1\gltest\gltest1\dimensions_plus.cpp(443): warning C4244: '*=': conversion from 'double' to 'int', possible loss of data
+c:\users\admin\documents\visual studio 2015\projects\gltest1\gltest\gltest1\dimensions_plus.cpp(444): warning C4244: '*=': conversion from 'double' to 'int', possible loss of data
+c:\users\admin\documents\visual studio 2015\projects\gltest1\gltest\gltest1\dimensions_plus.cpp(445): warning C4305: '*=': truncation from 'double' to 'float'
+c:\users\admin\documents\visual studio 2015\projects\gltest1\gltest\gltest1\dimensions_plus.cpp(446): warning C4305: '*=': truncation from 'double' to 'float'
+c:\users\admin\documents\visual studio 2015\projects\gltest1\gltest\gltest1\dimensions_plus.cpp(481): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+c:\users\admin\documents\visual studio 2015\projects\gltest1\gltest\gltest1\dimensions_plus.cpp(482): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+c:\users\admin\documents\visual studio 2015\projects\gltest1\gltest\gltest1\dimensions_plus.cpp(483): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+c:\users\admin\documents\visual studio 2015\projects\gltest1\gltest\gltest1\dimensions_plus.cpp(484): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+c:\users\admin\documents\visual studio 2015\projects\gltest1\gltest\gltest1\dimensions_plus.cpp(496): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\admin\documents\visual studio 2015\projects\gltest1\gltest\gltest1\dimensions_plus.cpp(497): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\admin\documents\visual studio 2015\projects\gltest1\gltest\gltest1\dimensions_plus.cpp(508): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+c:\users\admin\documents\visual studio 2015\projects\gltest1\gltest\gltest1\dimensions_plus.cpp(561): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\admin\documents\visual studio 2015\projects\gltest1\gltest\gltest1\dimensions_plus.cpp(572): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+c:\users\admin\documents\visual studio 2015\projects\gltest1\gltest\gltest1\dimensions_plus.cpp(629): warning C4244: '*=': conversion from 'double' to 'int', possible loss of data
+c:\users\admin\documents\visual studio 2015\projects\gltest1\gltest\gltest1\dimensions_plus.cpp(630): warning C4244: '*=': conversion from 'double' to 'int', possible loss of data
+c:\users\admin\documents\visual studio 2015\projects\gltest1\gltest\gltest1\dimensions_plus.cpp(631): warning C4305: '*=': truncation from 'double' to 'float'
+c:\users\admin\documents\visual studio 2015\projects\gltest1\gltest\gltest1\dimensions_plus.cpp(632): warning C4305: '*=': truncation from 'double' to 'float'
+c:\users\admin\documents\visual studio 2015\projects\gltest1\gltest\gltest1\dimensions_plus.cpp(703): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+c:\users\admin\documents\visual studio 2015\projects\gltest1\gltest\gltest1\dimensions_plus.cpp(704): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+c:\users\admin\documents\visual studio 2015\projects\gltest1\gltest\gltest1\dimensions_plus.cpp(705): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+c:\users\admin\documents\visual studio 2015\projects\gltest1\gltest\gltest1\dimensions_plus.cpp(706): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+c:\users\admin\documents\visual studio 2015\projects\gltest1\gltest\gltest1\dimensions_plus.cpp(726): warning C4244: '*=': conversion from 'double' to 'int', possible loss of data
+c:\users\admin\documents\visual studio 2015\projects\gltest1\gltest\gltest1\dimensions_plus.cpp(727): warning C4244: '*=': conversion from 'double' to 'int', possible loss of data
+c:\users\admin\documents\visual studio 2015\projects\gltest1\gltest\gltest1\dimensions_plus.cpp(728): warning C4305: '*=': truncation from 'double' to 'float'
+c:\users\admin\documents\visual studio 2015\projects\gltest1\gltest\gltest1\dimensions_plus.cpp(729): warning C4305: '*=': truncation from 'double' to 'float'
+c:\users\admin\documents\visual studio 2015\projects\gltest1\gltest\gltest1\dimensions_plus.cpp(799): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+c:\users\admin\documents\visual studio 2015\projects\gltest1\gltest\gltest1\dimensions_plus.cpp(800): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+c:\users\admin\documents\visual studio 2015\projects\gltest1\gltest\gltest1\dimensions_plus.cpp(801): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+c:\users\admin\documents\visual studio 2015\projects\gltest1\gltest\gltest1\dimensions_plus.cpp(802): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+  Generating Code...
+  glTest1.vcxproj -> C:\Users\Admin\Documents\Visual Studio 2015\Projects\glTest1\glTest\Debug\glTest1.exe
+  glTest1.vcxproj -> C:\Users\Admin\Documents\Visual Studio 2015\Projects\glTest1\glTest\Debug\glTest1.pdb (Partial PDB)
